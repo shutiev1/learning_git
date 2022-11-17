@@ -8,3 +8,4 @@ for i in a:
         sum2 += j
 print(sum1, 'min a = ', min(a))
 print(sum2, 'min b = ', min(b))
+
